@@ -11,6 +11,8 @@ disqusShortname: hugo-theme-stack
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
 DefaultContentLanguage: zh-cn
 
+publishDir: /docs
+
 permalinks:
     post: /p/:slug/
     page: /:slug/
@@ -84,7 +86,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
