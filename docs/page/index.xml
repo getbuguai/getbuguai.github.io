@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Get 糖果 TG</title>
-    <link>https://gettg.github.io/page/</link>
-    <description>Recent content in Pages on Get 糖果 TG</description>
+    <title>Pages on Get 不乖 TG</title>
+    <link>https://getbuguai.github.io/page/</link>
+    <description>Recent content in Pages on Get 不乖 TG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gettg.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>https://gettg.github.io/archives/</link>
+      <link>https://getbuguai.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gettg.github.io/archives/</guid>
+      <guid>https://getbuguai.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://gettg.github.io/about/</link>
+      <link>https://getbuguai.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gettg.github.io/about/</guid>
+      <guid>https://getbuguai.github.io/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -29,10 +29,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Search</title>
-      <link>https://gettg.github.io/search/</link>
+      <link>https://getbuguai.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettg.github.io/search/</guid>
+      <guid>https://getbuguai.github.io/search/</guid>
       <description></description>
     </item>
     

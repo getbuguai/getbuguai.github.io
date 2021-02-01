@@ -1,8 +1,8 @@
-baseurl: https://gettg.github.io
+baseurl: https://getbuguai.github.io
 languageCode: zh-CN
 theme: hugo-theme-stack
 paginate: 5
-title: Get 糖果 TG
+title: Get 不乖
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -22,8 +22,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: https://cdn.jsdelivr.net/gh/gettg/gettg.github.io/static/favicon1.ico
-    xfavicon: https://cdn.jsdelivr.net/gh/gettg/gettg.github.io/static/favicon2.ico
+    favicon: https://cdn.jsdelivr.net/gh/getbuguai/getbuguai.github.io/static/favicon1.ico
+    xfavicon: https://cdn.jsdelivr.net/gh/getbuguai/getbuguai.github.io/static/favicon2.ico
 
     footer:
         since: 2019
@@ -38,7 +38,7 @@ params:
         subtitle: 如果没有目标，就去做自己喜欢的事情。
         avatar:
             local: false
-            src: https://cdn.jsdelivr.net/gh/gettg/flutter-app1/assets/img/git.jpg
+            src: https://cdn.jsdelivr.net/gh/getbuguai/flutter-app1/assets/img/git.jpg
 
     article:
         math: false
@@ -50,7 +50,7 @@ params:
         enabled: true
         provider: utterances
         utterances:
-            repo: gettg/gettg.github.io
+            repo: getbuguai/getbuguai.github.io
             issueTerm: pathname
             label: ✨💬
             theme: preferred-color-scheme

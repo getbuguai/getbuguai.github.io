@@ -1,5 +1,5 @@
-# Get 糖果 Blog
+# Get 不乖 Blog
 
-![](https://cdn.jsdelivr.net/gh/gettg/flutter-app1/assets/img/git.jpg)
+![](https://cdn.jsdelivr.net/gh/getbuguai/flutter-app1/assets/img/git.jpg)
 
-博客地址: [https://gettg.github.io](https://gettg.github.io)
+博客地址: [https://getbuguai.github.io](https://getbuguai.github.io)
