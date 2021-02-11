@@ -24,13 +24,19 @@ jobs:
     steps:
       # 在$ GITHUB_WORKSPACE下签出您的存储库，以便您的工作可以访问它
       - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       # 使用运行程序外壳运行单个命令
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: 依赖环境
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.80.0'
+          extended: true
 
-      # 使用runners shell运行一组命令
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      - name: 构建
+        run: hugo -D
+
+      - name: 部署
+        run: git push --all
