@@ -7,7 +7,7 @@ clear:
 	@rm -rf ./docs/*
 	@rm -rf ./resources/_gen/images/*
 
-push: clear
+push: 
 	@git push --all
 
 pull:
