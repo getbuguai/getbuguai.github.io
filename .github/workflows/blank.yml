@@ -36,7 +36,9 @@ jobs:
           extended: true
 
       - name: 构建
-        run: hugo -D && rm -rf ./docs/* && cp -rf ./public/ ./docs/
+        run: |
+          hugo -D 
 
       - name: 部署
-        run: git push --all
+        run:  |
+          git push --all

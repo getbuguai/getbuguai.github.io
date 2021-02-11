@@ -12,7 +12,7 @@ disqusShortname: hugo-theme-stack
 DefaultContentLanguage: zh-cn
 
 # 静态文件的目录
-# publishDir: /docs
+publishDir: ./docs
 
 permalinks:
     post: /p/:slug/
