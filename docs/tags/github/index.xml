@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on Get 不乖</title>
+    <link>https://getbuguai.github.io/tags/github/</link>
+    <description>Recent content in GitHub on Get 不乖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Action 的使用</title>
+      <link>https://getbuguai.github.io/p/github-action/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/p/github-action/</guid>
+      <description>Bilibili 链接地址: https://www.bilibili.com/read/cv9776049
+ 原由 该网站是搭建在 github 上的，也就是 gitpage 搭建。每次更新信息之后都需要手动 hugo -D 进行更新静态文件， 并更新到 github 的仓库。为了偷懒就想到了 cicd 的技术，也看到一些开源项目整合了一些 CICD 的功能。就简单的在网上 百度一下 ‘github cicd’。
+步骤 不粗所料，前几个就是具体的操作方式，使用 git Action，看了一下，有点类似 gitlib 的 CICD，不过不需要自己的搭建 runner，
+挺好不是吗？
+紧接着就是查看项目中是否能 集成 Action 的功能，点击项目 https://github.com/getbuguai/getbuguai.github.io ，上放就是 Action 的分类，
+ 1613033281168 
+点击进入，可以看到下方详细的环境分类，什么云之类的，我都没有，以及一些其他的分类。（英文一般我就忽略了）
+直接点击最前面的 Simple workflow 中的 按钮。进入新的页面，下方是一个简单的案例，还有一堆注释，忽略，直接看到下方的 run: echo Hello, world!
+好家伙，果然逃不过 Hello, world! ，一切困难都是从简单的 Hello, world! 开始。
+通过翻译看了一下大概的含义，也就和 gitlib 的 CICD 文件的步骤类似，相较后者容易上手很多。
+紧接着注意到右方向的搜索，上来就是 hugo，前几条信息就是构建之类的脚本，找了几个类似的进去查看文档信息，可以看出并不是很复杂。</description>
+    </item>
+    
+  </channel>
+</rss>
