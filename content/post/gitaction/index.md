@@ -1,8 +1,8 @@
 ---
 title: "GitHub Action 的使用"
 date: 2021-02-11
-# draft: false
-# hidden: false
+draft: false
+hidden: false
 license: "原创授权：Bilibili : www.bilibili.com/read/cv9776049 "
 math: false
 slug: github-action
