@@ -1,0 +1,36 @@
+# 这是一个基本的工作流程，可帮助您开始使用操作
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # 在推或拉请求事件上触发工作流，但仅针对主分支
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # 允许您从“操作”选项卡手动运行此工作流
+  workflow_dispatch:
+
+# 工作流运行由可以顺序或并行运行的一个或多个作业组成
+jobs:
+  # 此工作流程包含一个名为“ build”的作业
+  build:
+    # 作业将运行的运行程序类型
+    runs-on: ubuntu-latest
+
+    # 步骤表示将作为工作一部分执行的一系列任务
+    steps:
+      # 在$ GITHUB_WORKSPACE下签出您的存储库，以便您的工作可以访问它
+      - uses: actions/checkout@v2
+
+      # 使用运行程序外壳运行单个命令
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # 使用runners shell运行一组命令
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
