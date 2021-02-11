@@ -9,6 +9,8 @@ tags = [
     "html",
     "themes",
 ]
+draft= true
+hidden= true
 categories = [
     "themes",
     "syntax",

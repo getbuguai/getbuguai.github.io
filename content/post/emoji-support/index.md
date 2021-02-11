@@ -6,6 +6,8 @@ description = "Guide to emoji usage in Hugo"
 categories = [
     "Test"
 ]
+draft= true
+hidden= true
 tags = [
     "emoji",
 ]

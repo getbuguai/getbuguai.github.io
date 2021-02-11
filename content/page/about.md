@@ -1,27 +1,62 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "关于 这个程序不太乖 , 可以告诉你的内容"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-me", "about-hugo", "contact","getbuguai","buguai"]
+author = "buguai"
 license = "CC BY-NC-ND"
 lastmod = "2020-10-09"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+[![Github](https://img.shields.io/github/followers/getbuguai?label=Follow&style=plastic)](https://github.com/getbuguai)
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/65?logoColor=white%26project=%26recentMS=0%26showProject=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgetbuguai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### 找到我：这个程序不太乖 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- BiliBili 主页: [https://space.bilibili.com/278413353 ](https://space.bilibili.com/278413353)
+- GitHub 主页: [https://github.com/getbuguai](https://github.com/getbuguai) 
+- 码云 主页: [https://gitee.com/getbuguai](https://gitee.com/getbuguai) 
+- QQ群: [ 不乖的程序交流群: [487090042](https://qm.qq.com/cgi-bin/qm/qr?k=4E_QbhCpe0O2QVPU_UFi-AFMLOmxpXrw&jump_from=webapi) ]
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+#### 请作者喝杯奶茶
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+ - 支付宝收款 https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg
+ - 微信收款 https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+> 如有问题可以进行备注  
+> 默认为请作者喝杯奶茶  
+> 感谢投喂 !!!   
+
+<!--
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://cdn.jsdelivr.net/gh/getbuguai/flutter-app1/assets/img/git.jpg)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+#### 赞助
+<details>
+    <summary>支付宝</summary>
+   <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
+     alt="支付宝收款">
+</details>
+<details>
+    <summary>微信</summary>
+     <img class="fit-picture"
+     src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
+     alt="微信收款">
+</details>
+> 如有问题可以进行备注
+> 默认为请作者喝杯奶茶
+> 感谢投喂 !!! 
+-->
+

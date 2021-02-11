@@ -7,6 +7,8 @@ categories = [
     "Test",
     "Test with whitespaces"
 ]
+hidden= true
+draft= true
 tags = [
     "markdown",
     "text",
