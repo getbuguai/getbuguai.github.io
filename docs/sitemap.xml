@@ -68,6 +68,21 @@
   </url>
   
   <url>
+    <loc>https://getbuguai.github.io/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://getbuguai.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://getbuguai.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://getbuguai.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -84,10 +99,6 @@
   
   <url>
     <loc>https://getbuguai.github.io/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://getbuguai.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
   </url>
   
 </urlset>
