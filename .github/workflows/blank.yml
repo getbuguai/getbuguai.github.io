@@ -36,7 +36,7 @@ jobs:
           extended: true
 
       - name: 构建
-        run: hugo -D
+        run: chmod -R 777 ./docs && hugo -D
 
       - name: 部署
         run: git push --all
