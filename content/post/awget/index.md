@@ -1,7 +1,7 @@
 ---
 title: "为了一张图片我写了一个简单的wget"
 date: 2021-02-11
-draft: fasle
+draft: false
 hidden: false
 # comments: true
 license: "原创授权：Bilibili : www.bilibili.com/read/cv9776589 "
