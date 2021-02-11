@@ -50,7 +50,11 @@
 		
 	&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;简单测试了一下 demo ，就对着 &lt;a href=&#34;https://github.com/marketplace/actions/hugo-setup&#34;&gt;https://github.com/marketplace/actions/hugo-setup&lt;/a&gt; 这个脚本进行了魔改，去除自己不需要的部分。也就出现了下方的 Action 配置文件。&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;注意 secrets.GITHUB_TOKEN 参数为 个人信息设置中 developer setting 中的 权限 admin:repo_hook, repo, workflow 
+=======
+&lt;p&gt;注意 secrets.GITHUB_TOKEN 参数为 个人信息设置中 developer setting 中的 权限 admin:repo_hook, repo, workflow
+>>>>>>> d0268c1921f17d7b0734a90cd3dfb2fd0b442750
 &lt;figure style=&#34;flex-grow: 325; flex-basis: 781px&#34;&gt;
 		&lt;a href=&#34;https://getbuguai.github.io/p/github-action/token.png&#34; data-size=&#34;1502x461&#34;&gt;&lt;img src=&#34;https://getbuguai.github.io/p/github-action/token.png&#34;
 				srcset=&#34;https://getbuguai.github.io/p/github-action/token_hu6fc03b2d75a159731a74fba5b2a3b5d8_36997_480x0_resize_box_2.png 480w, https://getbuguai.github.io/p/github-action/token_hu6fc03b2d75a159731a74fba5b2a3b5d8_36997_1024x0_resize_box_2.png 1024w&#34;
