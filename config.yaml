@@ -1,6 +1,6 @@
 baseurl: https://getbuguai.github.io
 languageCode: zh-CN
-theme: hugo-theme-stack
+theme: 
 paginate: 5
 title: Get 不乖
 
