@@ -92,5 +92,13 @@ jobs:
 
       - name: 部署
         run:  |
-          git push --all
+          git config --global user.email tgkoco@qq.com
+          git config --global user.name getbuguai
+          git add -A
+          git commit -m 'git Action 部署' -a
+
+      - name: 提交
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 ```
