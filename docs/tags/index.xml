@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Get 不乖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CICD</title>
+      <link>https://getbuguai.github.io/tags/cicd/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/tags/cicd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://getbuguai.github.io/tags/github/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wget</title>
+      <link>https://getbuguai.github.io/tags/wget/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/tags/wget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://getbuguai.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>测试</title>
       <link>https://getbuguai.github.io/tags/%E6%B5%8B%E8%AF%95/</link>

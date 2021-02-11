@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Get 不乖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://getbuguai.github.io/categories/test/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Git</title>
+      <link>https://getbuguai.github.io/categories/git/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://getbuguai.github.io/categories/test/</guid>
+      <guid>https://getbuguai.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://getbuguai.github.io/categories/golang/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小工具</title>
+      <link>https://getbuguai.github.io/categories/%E5%B0%8F%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/categories/%E5%B0%8F%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
     
@@ -40,6 +58,15 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://getbuguai.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://getbuguai.github.io/categories/test/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://getbuguai.github.io/categories/test/</guid>
       <description></description>
     </item>
     
