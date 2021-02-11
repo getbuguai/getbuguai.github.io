@@ -18,7 +18,7 @@
 步骤 不粗所料，前几个就是具体的操作方式，使用 git Action，看了一下，有点类似 gitlib 的 CICD，不过不需要自己的搭建 runner，
 挺好不是吗？
 紧接着就是查看项目中是否能 集成 Action 的功能，点击项目 https://github.com/getbuguai/getbuguai.github.io ，上放就是 Action 的分类，
-1613033281168
+ 1613033281168 
 点击进入，可以看到下方详细的环境分类，什么云之类的，我都没有，以及一些其他的分类。（英文一般我就忽略了）
 直接点击最前面的 Simple workflow 中的 按钮。进入新的页面，下方是一个简单的案例，还有一堆注释，忽略，直接看到下方的 run: echo Hello, world!
 好家伙，果然逃不过 Hello, world! ，一切困难都是从简单的 Hello, world! 开始。
