@@ -7,14 +7,11 @@ aliases:
 date: {{ .Date }}
 draft: true
 hidden: false
-comments: true //显示 / 隐藏评论区
-license: true
+# comments: true
+license: "原创授权：Bilibili : www.bilibili.com/read/cv9776049 "
 math: false
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
-style:
-    background: "#2a9d8f"
-    color: "#fff"
 categories:
     - Test
     - 测试

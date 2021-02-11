@@ -9,7 +9,6 @@ hidden: false
 tags:
     - 测试
 categories:
-    - Test
     - 测试
 ---
 

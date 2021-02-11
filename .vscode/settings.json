@@ -16,5 +16,27 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#0c1f11",
-    "svg.preview.background": "black"
+    "svg.preview.background": "black",
+    "colorInfo.languages": [
+        {
+            "selector": "md",
+            "colors": "css"
+        },
+        {
+            "selector": "css",
+            "colors": "css"
+        },
+        {
+            "selector": "sass",
+            "colors": "css"
+        },
+        {
+            "selector": "scss",
+            "colors": "css"
+        },
+        {
+            "selector": "less",
+            "colors": "css"
+        }
+    ]
 }
