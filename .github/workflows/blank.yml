@@ -42,5 +42,5 @@ jobs:
       - name: 部署
         run:  |
           git add -A
-          git commit -m '部署'
+          git commit -m 'git Action 部署'
           git push --all
