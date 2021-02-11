@@ -1,27 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>工具 on Get 不乖</title>
-    <link>https://getbuguai.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
-    <description>Recent content in 工具 on Get 不乖</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://getbuguai.github.io/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>为了一张图片我写了一个简单的wget</title>
-      <link>https://getbuguai.github.io/p/a-wget/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://getbuguai.github.io/p/a-wget/</guid>
-      <description>Bilibili 链接地址: https://www.bilibili.com/read/cv9776589
- 背景 windows 上 命令行不能下载文件，或者我不知道怎么下载。为了下载一整 gitAction 的官方图片。
-于是就写了一个简单的下载工具。
-有好的建议可以提出来，进行改进。
-构建 git clone https://github.com/getbuguai/wget.gitcd wget &amp;amp;&amp;amp; go build# 以工具包的形式, 会自动安装到 GOBINgo get -u github.com/getbuguai/wget使用方式 wget https://cdn.jsdelivr.net/gh/getbuguai/flutter-app1/assets/img/git.jpgwget 后面紧接着自己需要下载的文件即可。
-项目地址  github：https://github.com/getbuguai/wget
- 目前功能只有下载简单文件，后续有需要可能增加视频下载和 GUI。
-这个要看热度了。</description>
-    </item>
-    
-  </channel>
-</rss>
