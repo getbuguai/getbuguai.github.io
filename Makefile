@@ -9,3 +9,7 @@ clear:
 
 push: clear
 	@git push --all
+
+pull:
+	@git pull
+	@make clear
