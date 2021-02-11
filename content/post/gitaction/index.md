@@ -46,6 +46,9 @@ description: "GitHub Action 的使用体会，体会 GitHub 自动构建 CICD �
 
 简单测试了一下 demo ，就对着 https://github.com/marketplace/actions/hugo-setup 这个脚本进行了魔改，去除自己不需要的部分。也就出现了下方的 Action 配置文件。
 
+注意 secrets.GITHUB_TOKEN 参数为 个人信息设置中 developer setting 中的 权限 admin:repo_hook, repo, workflow 
+![](token.png)
+
 ## 自己 gitPage 的 Action 配置
 
 ```yaml
